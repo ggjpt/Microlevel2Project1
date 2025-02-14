@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "a/WxRP4sUwMbfqyasRrGhwNbq2LwwxJKqpFjWrASTDE=",
+  "Source": "YouProject.Api",
+  "BasePath": "_content/YouProject.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

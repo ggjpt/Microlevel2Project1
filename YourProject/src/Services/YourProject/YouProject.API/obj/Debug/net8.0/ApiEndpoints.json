@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "YourProject.Infrastructure.Controllers.LoginController",
+    "Method": "Authenticated",
+    "RelativePath": "authenticated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YourProject.Infrastructure.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YourProject.Infrastructure.Controllers.LoginController",
+    "Method": "LoginFailed",
+    "RelativePath": "loginfailed",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

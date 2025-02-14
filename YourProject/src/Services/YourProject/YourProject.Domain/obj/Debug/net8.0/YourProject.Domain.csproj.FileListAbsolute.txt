@@ -1,0 +1,12 @@
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\bin\Debug\net8.0\YourProject.Domain.deps.json
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\bin\Debug\net8.0\YourProject.Domain.dll
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\bin\Debug\net8.0\YourProject.Domain.pdb
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\obj\Debug\net8.0\YourProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\obj\Debug\net8.0\YourProject.Domain.AssemblyInfoInputs.cache
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\obj\Debug\net8.0\YourProject.Domain.AssemblyInfo.cs
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\obj\Debug\net8.0\YourProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\obj\Debug\net8.0\YourProject.Domain.sourcelink.json
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\obj\Debug\net8.0\YourProject.Domain.dll
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\obj\Debug\net8.0\refint\YourProject.Domain.dll
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\obj\Debug\net8.0\YourProject.Domain.pdb
+C:\Users\gajapathyg\OneDrive - A STAR\Desktop\Microservices\Day6- Assessment\YourProject\src\Services\YourProject\YourProject.Domain\obj\Debug\net8.0\ref\YourProject.Domain.dll
